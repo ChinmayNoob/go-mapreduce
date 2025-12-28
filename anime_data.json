@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Naruto",
+    "rating": 8.5,
+    "genres": ["Action", "Adventure", "Shounen"]
+  },
+  {
+    "name": "One Piece",
+    "rating": 9.0,
+    "genres": ["Action", "Adventure", "Comedy"]
+  },
+  {
+    "name": "Attack on Titan",
+    "rating": 9.2,
+    "genres": ["Action", "Drama", "Horror"]
+  },
+  {
+    "name": "Dragon Ball Z",
+    "rating": 8.2,
+    "genres": ["Action", "Adventure", "Shounen"]
+  },
+  {
+    "name": "Death Note",
+    "rating": 9.0,
+    "genres": ["Mystery", "Psychological", "Thriller"]
+  },
+  {
+    "name": "Fullmetal Alchemist",
+    "rating": 9.1,
+    "genres": ["Action", "Adventure", "Drama"]
+  },
+  {
+    "name": "My Hero Academia",
+    "rating": 8.4,
+    "genres": ["Action", "Comedy", "School"]
+  },
+  {
+    "name": "Demon Slayer",
+    "rating": 8.7,
+    "genres": ["Action", "Supernatural", "Historical"]
+  },
+  {
+    "name": "Hunter x Hunter",
+    "rating": 9.3,
+    "genres": ["Action", "Adventure", "Shounen"]
+  },
+  {
+    "name": "Spirited Away",
+    "rating": 8.6,
+    "genres": ["Adventure", "Supernatural", "Fantasy"]
+  },
+  {
+    "name": "Your Name",
+    "rating": 8.4,
+    "genres": ["Romance", "Supernatural", "Drama"]
+  },
+  {
+    "name": "Spy x Family",
+    "rating": 8.5,
+    "genres": ["Action", "Comedy", "Slice of Life"]
+  }
+]
+
